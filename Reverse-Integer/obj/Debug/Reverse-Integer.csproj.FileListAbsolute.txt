@@ -1,0 +1,6 @@
+D:\dev\Github\Reverse-Integer\Reverse-Integer\bin\Debug\Reverse-Integer.exe.config
+D:\dev\Github\Reverse-Integer\Reverse-Integer\bin\Debug\Reverse-Integer.exe
+D:\dev\Github\Reverse-Integer\Reverse-Integer\bin\Debug\Reverse-Integer.pdb
+D:\dev\Github\Reverse-Integer\Reverse-Integer\obj\Debug\Reverse-Integer.csprojResolveAssemblyReference.cache
+D:\dev\Github\Reverse-Integer\Reverse-Integer\obj\Debug\Reverse-Integer.exe
+D:\dev\Github\Reverse-Integer\Reverse-Integer\obj\Debug\Reverse-Integer.pdb

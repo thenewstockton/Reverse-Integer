@@ -1,0 +1,15 @@
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Reverse-IntegerTests.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Reverse-IntegerTests.pdb
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\obj\Debug\Reverse-IntegerTests.csprojResolveAssemblyReference.cache
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\obj\Debug\Reverse-IntegerTests.dll
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\obj\Debug\Reverse-IntegerTests.pdb
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Reverse-Integer.exe
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Reverse-Integer.pdb
+D:\dev\Github\Reverse-Integer\Reverse-IntegerTests\bin\Debug\Reverse-Integer.exe.config
